@@ -12,4 +12,12 @@ hive> describe database abc_database_name;
 OK
 abc_database_name	hello this is my first database	hdfs://quickstart.cloudera:8020/user/hive/warehouse/new_database	cloudera	USER	
 Time taken: 0.108 seconds, Fetched: 1 row(s)
+hive>
+hive>
+hive>
+hive>
+hive>
+hive> use abc_database_name;
+OK
+Time taken: 0.036 seconds
 hive> 
